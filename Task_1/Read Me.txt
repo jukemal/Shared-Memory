@@ -1,0 +1,3 @@
+gcc -pthread write.c -o write && ./write 
+
+gcc read.c -o read && ./read

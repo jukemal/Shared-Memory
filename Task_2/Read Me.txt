@@ -1,0 +1,3 @@
+gcc HR.c -o HR && ./HR    
+
+gcc Accountants.c -o Accountants && ./Accountants
